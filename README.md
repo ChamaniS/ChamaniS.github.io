@@ -1,5 +1,8 @@
 ### Chamani Shiranthika
-🌱 I’m currently learning ...
+
+I am a PhD student in School of Engineering Science at Simon Fraser University.
+
+
 
 <!--
 **ChamaniS/ChamaniS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
