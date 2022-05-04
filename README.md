@@ -1,4 +1,4 @@
-### Hi there 👋
+### Chamani Shiranthika
 🌱 I’m currently learning ...
 
 <!--
