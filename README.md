@@ -1,7 +1,3 @@
-### Chamani Shiranthika
-
-I am a PhD student in School of Engineering Science at Simon Fraser University.
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
