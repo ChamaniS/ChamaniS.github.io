@@ -79,7 +79,7 @@
             </ul>
             <h3>Tertiary Education</h3>
             <p><strong>Ph.D. in Engineering Science (Reading), Simon Fraser University, Burnaby, BC, Canada (2022 Spring-ongoing)</strong></p>
-            <p>CGPA – 3.67/4.0</p>
+            <p>CGPA – 3.5/4.0</p>
             <p>Researching on Federated Learning, Collaborative Intelligence, Medical Imaging, Compression in Split Federated networks.</p>
             <p><strong>M.Sc. in Electrical Engineering, National Taipei University, Taiwan (2019 -2021)</strong></p>
             <p>GPA - 4.0/4.0</p>
@@ -103,12 +103,14 @@
         <section id="research" class="content">
             <h2>Research Experience</h2>
             <ul>
-                <li>Collaborative Intelligence on Medical Imaging – Ongoing research project at Simon Fraser University.</li>
-                <li>Reinforcement Learning based Chemotherapy modeling approach - Research project between National Taipei University, Taiwan and Cheng Hsin General Hospital, Taipei, Taiwan.</li>
+                <li>Collaborative Intelligence on Medical Imaging – Ongoing research project at Simon Fraser University. </li>
+                <li>Reinforcement Learning based Chemotherapy modeling approach - Research project between National Taipei University, Taiwan and Cheng Hsin General Hospital, Taipei, Taiwan. This research is being done with Data Driven (Off-line/ Batch) Reinforcement Learning algorithms using real human colon cancer data collected from the Cheng-Hsin General Hospital, Taipei, Taiwan. </li>
                 <li>An evaluation of the Five Times Sit-to-Stand Test (FTSST) in older adults for frailty detection - Research project between National Taipei University, Taiwan and Taipei Medical University, Taiwan.</li>
-                <li>Improvements on the Sequential Minimal Optimization (SMO) on Support Vector Regression (SVR) - Research project.</li>
+                <li>Improvements on the Sequential Minimal Optimization (SMO) on Support Vector Regression (SVR) - Research project</li>
                 <li>Personalized location recommendation and location details translation- A tour guide system based on Artificial Intelligence.</li>
-                <li>Peer reviewing in various research conferences and journals.</li>
+                <li> Peer reviewing in the following research conferences, and journals.
+-	ICITR 2019 (2 papers), ICPRAM 2019 (1 paper), ICIPRoB 2020 (1 paper), ICITR 2020 (5 papers), ICITR 2021 (4 papers), ICASSP 2023 (1 paper), CVPR-WiCV 2023 (2 papers), CVPR-WiCV 2024 (3 papers), Computers and Electrical Engineering Journal (1 paper)
+</li>
             </ul>
         </section>
         <section id="teaching" class="content">
