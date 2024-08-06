@@ -80,7 +80,7 @@
             <h3>Tertiary Education</h3>
             <ul>
             <li><p><strong>Ph.D. in Engineering Science (Reading), Simon Fraser University, Burnaby, BC, Canada (2022 Spring-ongoing)</strong></p></li>
-            <p>CGPA – 3.5/4.0</p>
+            <p>CGPA – 3.67/4.0</p>
             <p>Researching on Federated Learning, Collaborative Intelligence, Medical Imaging, Compression in Split Federated networks.</p>
             <li><p><strong>M.Sc. in Electrical Engineering, National Taipei University, Taiwan (2019 -2021)</strong></p></li>
             <p>GPA - 4.0/4.0</p>
