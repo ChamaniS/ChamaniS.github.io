@@ -259,7 +259,23 @@
             in Computer Methods and Programs in Biomedicine (2022): 107280.
         </li>
         </ol>
-            
+<h3>Posters</h3>
+    <ol>
+<li>“Optimizing Split Points for Error-Resilient SplitFed Learning”<br>
+    Chamani Shiranthika, P. Saeedi and I. V. Bajić, Research paper accepted for poster presentation, at the Women in Computer Vision (WiCV) workshop, at CVPR, 2024.
+</li>
+<li>“SplitFed resilience to packet loss: Where to split, that is the question”<br>
+    Chamani Shiranthika, P. Saeedi and I. V. Bajić, Poster presented at the CRA Grad Cohort for Woman 2024, held in Minneapolis, Minnesota, on April 11-13, 2024.
+</li>
+<li>“An Evaluation Of The Five Times Sit-to-stand Test In Older Adult For Frailty Detection”<br>
+    Chamani Shiranthika, Tsu-Ying Chen, Huei-Ling Chiu, Chan-Yun Yang, Taipei Union University System Academic Research Achievement Presentation, Taipei, Taiwan, 2021.
+</li>
+<li>“Reinforcement Learning Control for Cancer Chemotherapy Drug Dosing”<br>
+    Chamani Shiranthika, Guo-Wei Chen, Chong-Yi Wang, Wei-Fu Li, Chan-yun Yang, The 25th Taiwan Cancer Joint Academic Conference, Taipei, Taiwan, 2021.
+</li>
+
+
+   </ol>
         </section>
         
         <section id="awards" class="content">
