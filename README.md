@@ -65,15 +65,11 @@
             <h1> Chamani Shiranthika</h1>
             <p><small><i> Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</i></small></p>
         </header>
-        <div class="content">
-            <!-- Your content goes here -->
-        </div>
         <footer>
             <p>&copy; 2024 Chamani Shiranthika. All rights reserved.</p>
         </footer>
     </div>
 
-<body>
     <div class="container">
         <section id="about" class="content">
             <h2>About Me</h2>
