@@ -78,20 +78,22 @@
                 Results – 6A’s, 2B’s 1C’s
             </ul>
             <h3>Tertiary Education</h3>
-            <p><strong>Ph.D. in Engineering Science (Reading), Simon Fraser University, Burnaby, BC, Canada (2022 Spring-ongoing)</strong></p>
+            <ul>
+            <li><p><strong>Ph.D. in Engineering Science (Reading), Simon Fraser University, Burnaby, BC, Canada (2022 Spring-ongoing)</strong></p></li>
             <p>CGPA – 3.5/4.0</p>
             <p>Researching on Federated Learning, Collaborative Intelligence, Medical Imaging, Compression in Split Federated networks.</p>
-            <p><strong>M.Sc. in Electrical Engineering, National Taipei University, Taiwan (2019 -2021)</strong></p>
+            <li><p><strong>M.Sc. in Electrical Engineering, National Taipei University, Taiwan (2019 -2021)</strong></p></li>
             <p>GPA - 4.0/4.0</p>
             <p>Received the “Falcon award for character and academic excellence” by the National Taipei University.</p>
             <p>Thesis: Reinforcement Learning based Control of Cancer Chemotherapy Treatments.</p>
             <p>Received the 'Best Master Thesis Award' from the IEEE Taipei Section.</p>
-            <p><strong>B.Sc. Honors in Information Technology, University of Moratuwa, Sri Lanka (2014 - 2018)</strong></p>
+            <li><p><strong>B.Sc. Honors in Information Technology, University of Moratuwa, Sri Lanka (2014 - 2018)</strong></p></li>
             <p>First Class Honors (GPA - 3.74/4.2)</p>
             <p>Thesis: Machine-Learning approach for Personalized Travel spots recommendation for tourists.</p>
-            <p><strong>Advanced Diploma in Management Accountants, Chartered Institute of Management Accountants (CIMA UK) (2012 – 2014)</strong></p>
+            <li><p><strong>Advanced Diploma in Management Accountants, Chartered Institute of Management Accountants (CIMA UK) (2012 – 2014)</strong></p></li>
             <p>Advanced diploma completing 3 tiers of Foundational Level, Operational Level, Management Level.</p>
-        </section>
+            </ul>
+            </section>
         <section id="work" class="content">
             <h2>Work Experience</h2>
             <h3>Software Engineer</h3>
