@@ -17,7 +17,7 @@
             overflow: hidden;
         }
         header {
-            background: #40e0d0;
+            background: #fbfcfc;;
             color: #fff;
             padding-top: 30px;
             min-height: 70px;
@@ -47,7 +47,7 @@
             margin: 20px 0;
         }
         footer {
-            background: #40e0d0;
+            background: #fbfcfc;
             color: #fff;
             text-align: center;
             padding: 10px 0;
