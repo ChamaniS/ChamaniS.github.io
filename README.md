@@ -246,19 +246,16 @@
             C. Shiranthika, P. Saeedi and I. V. Bajić, in IEEE Access, vol. 11, pp. 54188-54209, 2023, doi: <a href="https://doi.org/10.1109/ACCESS.2023.3281832" target="_blank">10.1109/ACCESS.2023.3281832</a>.
         </li>
         <li>“Supervised Optimal Chemotherapy Regimen based on Offline Reinforcement Learning”<br>
-            C. Shiranthika, Kuo-Wei Chen, Chung-Yih Wang, Chan-Yun Yang, B. H. Sudantha, Wei-Fu Li<br>
-            “Supervised Optimal Chemotherapy Regimen based on Offline Reinforcement Learning” in IEEE Journal of Biomedical and Health Informatics. 2022;26(9):4763-4772. doi: <a href="https://doi.org/10.1109/JBHI.2022.3183854" target="_blank">10.1109/JBHI.2022.3183854</a>.
+            C. Shiranthika, Kuo-Wei Chen, Chung-Yih Wang, Chan-Yun Yang, B. H. Sudantha, Wei-Fu Li, in IEEE Journal of Biomedical and Health Informatics. 2022;26(9):4763-4772. doi: <a href="https://doi.org/10.1109/JBHI.2022.3183854" target="_blank">10.1109/JBHI.2022.3183854</a>.
         </li>
         <li>“Development of gravitationally aligned pendant IMU frailty identifier”<br>
     Chan-Yun Yang, Nilantha Premakumara, Huei-Ling Chiu, Yao-Hung Feng, Tzu-Ying Chen, Chamani Shiranthika, in Computers and Electrical Engineering (2024);118: 109466
 </li>
         <li>“Realtime Computer Vision-Based Accurate Vehicle Counting and Speed Estimation for Highways”<br>
-            C. Shiranthika, P. Premaratne, Z. Zheng, and B. Halloran<br>
-            “Realtime Computer Vision-Based Accurate Vehicle Counting and Speed Estimation for Highways,” in Intelligent Computing Theories and Application, pp. 583–592.
+            C. Shiranthika, P. Premaratne, Z. Zheng, and B. Halloran, in Intelligent Computing Theories and Application, pp. 583–592.
         </li>
         <li>“Reinforcement Learning Strategies in Cancer Chemotherapy Treatments: A Review”<br>
-            Chamani Shiranthika, Chan-Yun Yang, Kuo-Wei Chen, Chung-Yih Wang, Sagara Sumathipala<br>
-            in Computer Methods and Programs in Biomedicine (2022): 107280.
+            Chamani Shiranthika, Chan-Yun Yang, Kuo-Wei Chen, Chung-Yih Wang, Sagara Sumathipala, in Computer Methods and Programs in Biomedicine (2022): 107280.
         </li>
         </ol>
 <h3>Posters</h3>
