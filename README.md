@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chamani Shiranthika</title>
-    <p>Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer.</p>
+    <p>Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer </p>
     <style>
         body {
             font-family: Arial, sans-serif;
