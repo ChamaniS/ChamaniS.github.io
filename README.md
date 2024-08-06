@@ -102,8 +102,8 @@
             </ul>
             <h3>Trainee Software Engineer</h3>
             <ul> <li>
-            <p>Aspitio (Pvt) Ltd, Sri Lanka (June 2017 - August 2017)</p>
-            <p>Virtusa (Pvt) Ltd, Sri Lanka (December 2016 - June 2017)</p> </li>
+            <p>Aspitio (Pvt) Ltd, Sri Lanka (June 2017 - August 2017)</p></li>
+           <li> <p>Virtusa (Pvt) Ltd, Sri Lanka (December 2016 - June 2017)</p> </li>
                 </ul>
         </section>
         <section id="research" class="content">
@@ -123,11 +123,11 @@
             <h2>Teaching Experience</h2>
             <table>
                 <thead>
-                    <tr> <b>
-                        <th>Subject</th>
-                        <th>Institution</th>
-                        <th>Professor In Charge</th>
-                        <th>Term</th> </b>
+                    <tr> 
+                        <th><b>Subject</b></th>
+                        <th><b>Institution</b></th>
+                        <th><b>Professor In Charge</b></th>
+                        <th><b>Term</b></th> 
                     </tr>
                 </thead>
                 <tbody>
