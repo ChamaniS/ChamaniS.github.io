@@ -194,19 +194,49 @@
         </section>
         <section id="publications" class="content">
             <h2>Publications</h2>
-            <h3>Journals</h3>
-            <ul>
-                <li>Shiranthika, C., & Saeedi, P. (2024). Learned Compression for Efficient Communication in Split-Federated Learning. <em>IEEE Transactions on Medical Imaging</em>, (Under Review).</li>
-                <li>Shiranthika, C., & Saeedi, P. (2024). MedSegNet10: A Novel Repository for Medical Image Segmentation Using Split-Federated Learning. <em>Journal of Biomedical and Health Informatics</em>, (Submitted).</li>
-                <li>Shiranthika, C., et al. (2021). Reinforcement Learning based Control of Cancer Chemotherapy Treatments. <em>IEEE Transactions on Biomedical Engineering</em>, 68(7), 2434-2445.</li>
-                <li>Shiranthika, C., et al. (2018). Personalized Travel Spot Recommendation for Tourists using Machine Learning. <em>Journal of Information Technology and Tourism</em>, 20(3), 235-251.</li>
-            </ul>
             <h3>Conferences</h3>
-            <ul>
-                <li>Shiranthika, C., & Saeedi, P. (2024). SplitFedZIP: Learned Compression for Efficient Communication in Split-Federated Learning. <em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</em>, (Accepted).</li>
-                <li>Shiranthika, C., et al. (2023). An Evaluation of the Five Times Sit-to-Stand Test (FTSST) in Older Adults for Frailty Detection. <em>Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</em>, 1145-1150.</li>
-                <li>Shiranthika, C., et al. (2017). Improvements on the Sequential Minimal Optimization (SMO) on Support Vector Regression (SVR). <em>Proceedings of the International Conference on Machine Learning (ICML)</em>, 1025-1032.</li>
-            </ul>
+    <ol>
+        <li>“SplitFed resilience to packet loss: Where to split, that is the question”<br>
+            Chamani Shiranthika, Zahra Hafezi Kafshgari, Parvaneh Saeedi, Ivan Bajic<br>
+            4th MICCAI 2023 Workshop on Distributed, Collaborative and Federated Learning 2023, Vancouver, BC, Canada.
+        </li>
+        <li>“Quality-Adaptative Split-Federated Learning for segmenting medical images with inaccurate annotations”<br>
+            Zahra Hafezi Kafshgari, Chamani Shiranthika, Parvaneh Saeedi, Ivan Bajic<br>
+            IEEE International Symposium on Biomedical Imaging (ISBI) 2023, Columbia.
+        </li>
+        <li>“Personalized Travel spots Recommendation based on unsupervised learning approach”<br>
+            C. Shiranthika, N. Premakumara, S. Fernando and S. Sumathipala<br>
+            "Personalized Travel Spot Recommendation based on Unsupervised Learning Approach," 2018 18th International Conference on Advances in ICT for Emerging Regions (ICTer), 2018, pp. 229-234, doi: <a href="https://doi.org/10.1109/ICTER.2018.8615533" target="_blank">10.1109/ICTER.2018.8615533</a>.
+        </li>
+        <li>“Application of Summarization and Sentiment Analysis in the Tourism Domain”<br>
+            N. Premakumara, C. Shiranthika, P. Welideniya, C. Bandara, I. Prasad and S. Sumathipala<br>
+            "Application of Summarization and Sentiment Analysis in the Tourism domain," 2019 IEEE 5th International Conference for Convergence in Technology (I2CT), 2019, pp. 1-5, doi: <a href="https://doi.org/10.1109/I2CT45611.2019.9033569" target="_blank">10.1109/I2CT45611.2019.9033569</a>.
+        </li>
+        <li>“Personalized Travel spots recommendation and guidance system for Sri Lankan tourists”<br>
+            C. Shiranthika, N. Premakumara, J. Weerawarnakula, H. Lakmal, S. Fernando, and S. Sumathipala<br>
+            “Personalized Travel Spot Recommendation and Guidance System for Sri Lankan Tourists,” in Proceedings of the 11th International Research Conference, Kothalawala Defence University, Sri Lanka, pp. 121–129. [Online]. Available: <a href="http://ir.kdu.ac.lk/handle/345/2498" target="_blank">http://ir.kdu.ac.lk/handle/345/2498</a>.
+        </li>
+        <li>“An Advanced Vehicle Warning System to Prevent Road Accidents”<br>
+            C. Shiranthika, N. Premakumara, J.K.C. Shyalika, S. Bandara, S. Sumathipala, and C.Y. Yang<br>
+            “An Advanced Vehicle Warning System to Prevent Road Accidents,” in 16th International Conference on Automation Technology 2019 (Nov 22-24), Taipei, Taiwan.
+        </li>
+        <li>“Integration of Speech Recognition with Computer Assisted Translation”<br>
+            C. Shiranthika and S. Sumathipala<br>
+            in 6th International Conference on Advancement of Development Administration (NIDA), Bangkok, Thailand.
+        </li>
+        <li>“Human Activity Recognition using CNN and LSTM”<br>
+            C. Shiranthika, N. Premakumara, H.L. Chiu, H. Samani, C. Shyalika and C.Y. Yang<br>
+            "Human Activity Recognition Using CNN & LSTM," 2020 5th International Conference on Information Technology Research (ICITR), 2020, pp. 1-6, doi: <a href="https://doi.org/10.1109/ICITR51448.2020.9310792" target="_blank">10.1109/ICITR51448.2020.9310792</a>.
+        </li>
+        <li>“IoT enabled Open framework for air pollution monitoring system”<br>
+            B.H. Sudantha, M.A.L.S.K, N. Premakumara, C. Shiranthika, C. Premachandra and H. Kawanaka<br>
+            "IoT Enabled an Open Framework for Air Pollution Monitoring System," 2020 5th International Conference on Information Technology Research (ICITR), 2020, pp. 1-5, doi: <a href="https://doi.org/10.1109/ICITR51448.2020.9310838" target="_blank">10.1109/ICITR51448.2020.9310838</a>.
+        </li>
+        <li>“An evaluation of the Five Times Sit-to-Stand Test (FTSST) in older adults for frailty detection”<br>
+            H. L. Chiu, C.AChen, N. Premakumara, C. Shiranthika, C.Y Yang<br>
+            "An evaluation of the Five Times Sit-to-Stand Test (FTSST) in older adults for frailty detection," 2020 14th International Convention on Rehabilitation Engineering and Technology (iCREATe), 2020, Taipei, Taiwan.
+        </li>
+    </ol>
         </section>
         
         <section id="awards" class="content">
