@@ -9,7 +9,7 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            background: #f4f4f4;
+            background: #ffa07a;
         }
         .container {
             width: 110%;
@@ -17,7 +17,7 @@
             overflow: hidden;
         }
         header {
-            background: #333;
+            background: #40e0d0;
             color: #fff;
             padding-top: 30px;
             min-height: 70px;
@@ -47,7 +47,7 @@
             margin: 20px 0;
         }
         footer {
-            background: #333;
+            background: #40e0d0;
             color: #fff;
             text-align: center;
             padding: 10px 0;
