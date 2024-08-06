@@ -12,7 +12,7 @@
             background: #f4f4f4;
         }
         .container {
-            width: 110%;
+            width: 200%;
             margin: auto;
             overflow: hidden;
         }
@@ -156,11 +156,29 @@
                         <td>2022 Summer</td>
                     </tr>
                     <tr>
-                        <td>Control Engineering</td>
-                        <td>University of Moratuwa, Sri Lanka</td>
-                        <td>Dr. Chamira Edussooriya</td>
-                        <td>2017-2018</td>
+                        <td>Control Systems</td>
+                        <td>National Taipei University, Taiwan</td>
+                        <td>Prof. Chan Yun Yang</td>
+                        <td>2019 Fall</td>
                     </tr>
+                     <tr>
+                        <td>Probability and Statistics</td>
+                        <td>National Taipei University, Taiwan</td>
+                        <td>Prof. Chan Yun Yang</td>
+                        <td>2020 Summer</td>
+                    </tr>
+                     <tr>
+                        <td>Machine Learning</td>
+                        <td>National Taipei University, Taiwan</td>
+                        <td>Prof. Chan Yun Yang</td>
+                        <td>2020 Summer</td>
+                    </tr>
+                     <tr>
+                        <td>Practical sessions on Exploratory Data Analytics</td>
+                        <td>National Taipei University, Taiwan</td>
+                        <td>Prof. Chan Yun Yang</td>
+                        <td>2020 Summer</td>
+                    </tr>                
                 </tbody>
             </table>
         </section>
