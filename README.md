@@ -9,7 +9,7 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            background: #ffa07a;
+            background: #d6dbdf;
         }
         .container {
             width: 110%;
