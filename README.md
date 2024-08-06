@@ -62,8 +62,8 @@
 <body>
     <div class="container">
         <header>
-            <h1>Chamani Shiranthika</h1>
-            <p><small><i>Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</i></small></p>
+            <h1> Chamani Shiranthika</h1>
+            <p><small><i> Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</i></small></p>
         </header>
         <div class="content">
             <!-- Your content goes here -->
