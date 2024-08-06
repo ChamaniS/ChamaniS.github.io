@@ -64,7 +64,7 @@
     <div class="container">
         <section id="about" class="content">
             <h2>About Me</h2>
-            <p>Research Assistant|Teaching Assistant|Ph.D. Student at Simon Fraser University, Canada|Former Software Engineer.</p>
+            <p>Research Assistant | Teaching Assistant | Ph.D. Student at Simon Fraser University, Canada | Former Software Engineer.</p>
             <p>I am an energetic, dedicated, and hardworking individual in the research and academics field. I would like to gain research experience while achieving professional goals and be a valuable asset to the world. Researching novel Artificial Intelligence milestones, solving human life problems with new techniques, and trying to facilitate human beings are my life targets.</p>
         </section>
         <section id="education" class="content">
