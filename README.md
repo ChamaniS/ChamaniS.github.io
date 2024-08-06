@@ -97,10 +97,14 @@
         <section id="work" class="content">
             <h2>Work Experience</h2>
             <h3>Software Engineer</h3>
-            <p>WSO2Telco (Pvt) Ltd (Apigate SriLanka) (June 2018 - August 2019)</p>
+            <ul><li>
+            <p>WSO2Telco (Pvt) Ltd (Apigate SriLanka) (June 2018 - August 2019)</p></li>
+            </ul>
             <h3>Trainee Software Engineer</h3>
+            <ul> <li>
             <p>Aspitio (Pvt) Ltd, Sri Lanka (June 2017 - August 2017)</p>
-            <p>Virtusa (Pvt) Ltd, Sri Lanka (December 2016 - June 2017)</p>
+            <p>Virtusa (Pvt) Ltd, Sri Lanka (December 2016 - June 2017)</p> </li>
+                </ul>
         </section>
         <section id="research" class="content">
             <h2>Research Experience</h2>
@@ -119,11 +123,11 @@
             <h2>Teaching Experience</h2>
             <table>
                 <thead>
-                    <tr>
+                    <tr> <b>
                         <th>Subject</th>
                         <th>Institution</th>
                         <th>Professor In Charge</th>
-                        <th>Term</th>
+                        <th>Term</th> </b>
                     </tr>
                 </thead>
                 <tbody>
