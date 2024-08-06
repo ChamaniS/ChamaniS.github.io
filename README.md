@@ -73,9 +73,9 @@
             <p>Devi Balika Vidyalaya, Colombo 08, Sri Lanka. (2003 - 2012)</p>
             <ul>
                 <li>G.C.E Advanced Level Examination 2012 (Mathematics Stream)</li>
-                <li>Results – Combined Mathematics-A, Chemistry-B, Physics-B</li>
+                Results – Combined Mathematics-A, Chemistry-B, Physics-B
                 <li>G.C.E Ordinary Level Examination 2008 (English Medium)</li>
-                <li>Results – 6A’s, 2B’s 1C’s</li>
+                Results – 6A’s, 2B’s 1C’s
             </ul>
             <h3>Tertiary Education</h3>
             <p><strong>Ph.D. in Engineering Science (Reading), Simon Fraser University, Burnaby, BC, Canada (2022 Spring-ongoing)</strong></p>
@@ -208,45 +208,77 @@
                 <li>Shiranthika, C., et al. (2017). Improvements on the Sequential Minimal Optimization (SMO) on Support Vector Regression (SVR). <em>Proceedings of the International Conference on Machine Learning (ICML)</em>, 1025-1032.</li>
             </ul>
         </section>
+        
         <section id="awards" class="content">
-            <h2>Awards & Recognitions</h2>
+            <h2>Special Awards</h2>
             <ul>
-                <li>IEEE Computer Society Best Paper Award, IEEE CVPR 2024.</li>
-                <li>Best Master Thesis Award, IEEE Taipei Section, 2021.</li>
-                <li>Falcon Award for Character and Academic Excellence, National Taipei University, 2021.</li>
-                <li>Dean's List, University of Moratuwa, 2018.</li>
-                <li>Best Project Award, University of Moratuwa, 2018.</li>
-                <li>IEEE Signal Processing Cup Finalist, 2017.</li>
+                <li>Best Master Thesis award 2021 – IEEE Taipei Section
+The award for the Best Master thesis given by the IEEE Taipei Section, Nominated by the SMC Taipei Sector. 
+</li>
+                <li>Falcon award for character and academic excellence 
+The special prize, which will be given to the Best student on the character and academic excellence in the Master’s student’s batch of the College of Electrical Engineering and Computer Science.
+</li>
+                <li>Dean's Honours List (During Bachelors Education at University of Moratuwa, Sri Lanka)
+Level1 Sem1, Level1 Sem2, Level2 Sem1, Level3 Sem1, Level4Sem1.
+</li>
+                <li>Sri Lanka Olympiad Mathematics Competition 
+2010 -Distinction Award
+2011 - High Distinction Award
+</li>
+                <li>Australian National Chemistry Quiz
+2008 - Distinction Award in junior section
+2010 - High Distinction Award in senior section.</li>
+                <li>FIT CodeRush 2016 coding competition, University of Moratuwa, Sri Lanka
+15 from 60 teams.
+</li>
+ <li>Mora Extreme 1.0 2016, University of Moratuwa, Sri Lanka
+21 from 68 teams
+ </li>
+ <li>All Island News Paper Quiz Competition - Sri Lanka Sustainable Energy Authority 
+All Island 1st place - Presented a Energy Consumption Controlling Project for Households    
+
+ </li>
             </ul>
         </section>
+        
+        
         <section id="voluntary" class="content">
             <h2>Voluntary Activities</h2>
             <ul>
-                <li>Volunteer, IEEE Women in Engineering, SFU Chapter (2022 - Present).</li>
-                <li>Mentor, IEEE Mentoring Program (2021 - Present).</li>
-                <li>Volunteer, Sri Lanka Red Cross Society (2014 - 2019).</li>
+<li>Pioneered in the fund raising program in renovating a computer lab in a rural school in Sri Lanka (https://www.gofundme.com/f/help-us-in-renovation-of-our-computer-lab) where the project was successfully finished on 2024 March 25. I was the main initiator of the project and carried out it successfully with the clarity organization: Sri Lanka Humanitarian Foundation of Canada, in Edmonton. </li>
+<li>Mentor in the ScholarX program organized by the Sustainable Education Foundation, Sri Lanka https://sefglobal.org/scholarx/2022/, (2022 May– 2022 November). </li>
+<li>Participated at the AIESEC SUMMER CAMP representing Sri Lanka, organized by the National Taipei University, Taiwan AIESEC Association for the High School students at Taiwan, (2020 July 14 – 2020 July 23). </li>
+<li>Participated in a Tea Industry survey organized by the University of Moratuwa, Sri Lanka AIESEC GIP Association, for the tea industry companies at Sri Lanka. </li>
+<li>Member of the Editorial Board of the Mora Mag Literature magazine and the Media Unit of University of Moratuwa, Sri Lanka, (2016 September – 2018 June). </li>
+<li>Member of the Editorial Board of the Sinhala and English Literary Associations of Devi Balika Vidyalaya, Colombo 08, Sri Lanka, (2007 – 2010). </li>
+
             </ul>
         </section>
         <section id="qualifications" class="content">
             <h2>Professional Qualifications</h2>
             <ul>
-                <li>Certified TensorFlow Developer, TensorFlow, 2023.</li>
-                <li>Certified ScrumMaster (CSM), Scrum Alliance, 2021.</li>
-                <li>Advanced Diploma in Management Accountants, CIMA UK, 2014.</li>
+<li>Certificate in Business Accounting (CIMA-Certificate Level) – 2013 May </li>
+<li>Diploma in Management Accounting (CIMA-Operational Level) – 2014 January</li>
+<li>Advanced Diploma in Management Accounting (CIMA-Management Level) – 2014 November</li>
+<li>Microsoft Certified Azure AI Fundamentals – 2021 September</li>
+<li>Reinforcement Learning Specialization certificate issued by University of Alberta, Canada – 2021 February</li>
+
             </ul>
         </section>
         <section id="memberships" class="content">
             <h2>Professional Memberships</h2>
             <ul>
-                <li>Member, IEEE (2017 - Present).</li>
-                <li>Member, IEEE Women in Engineering (2022 - Present).</li>
-                <li>Member, IEEE Signal Processing Society (2018 - Present).</li>
+<li>IEEE Graduate Student Membership </li>
+<li>IEEE Women in Engineering Membership</li>
+<li>IEEE Systems, Man, and Cybernetics Society Membership</li>
+<li>IEEE Young Professionals Membership</li>
+
             </ul>
         </section>
         <section id="contact" class="content">
             <h2>Contact Information</h2>
-            <p>Email: chamani.shiranthika@example.com</p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/chamani-shiranthika">https://www.linkedin.com/in/chamani-shiranthika</a></p>
+            <p>Email: chamanijks2@gmail.com</p>
+            <p>LinkedIn: <a href="[https://www.linkedin.com/in/chamani-shiranthika](https://www.linkedin.com/in/chamani-shiranthika-76491994/)">https://www.linkedin.com/in/chamani-shiranthika</a></p>
         </section>
     </div>
     <footer>
