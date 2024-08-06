@@ -349,7 +349,7 @@ All Island 1st place - Presented a Energy Consumption Controlling Project for Ho
         <section id="contact" class="content">
             <h2>Contact Information</h2>
             <p>Email: chamanijks2@gmail.com</p>
-            <p>LinkedIn: <a href="[https://www.linkedin.com/in/chamani-shiranthika](https://www.linkedin.com/in/chamani-shiranthika-76491994/)">https://www.linkedin.com/in/chamani-shiranthika</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/chamani-shiranthika-76491994/">https://www.linkedin.com/in/chamani-shiranthika</a></p>
         </section>
     </div>
     <footer>
