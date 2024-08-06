@@ -61,31 +61,10 @@
     </style>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <nav>
-                <h1>Chamani Shiranthika</h1>
-                <ul>
-                    <li><a href="#about">About Me</a></li>
-                    <li><a href="#education">Education</a></li>
-                    <li><a href="#work">Work Experience</a></li>
-                    <li><a href="#research">Research Experience</a></li>
-                    <li><a href="#teaching">Teaching Experience</a></li>
-                    <li><a href="#interests">Research Interests</a></li>
-                    <li><a href="#publications">Publications</a></li>
-                    <li><a href="#awards">Awards</a></li>
-                    <li><a href="#voluntary">Voluntary Activities</a></li>
-                    <li><a href="#qualifications">Professional Qualifications</a></li>
-                    <li><a href="#memberships">Professional Memberships</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
     <div class="container">
         <section id="about" class="content">
             <h2>About Me</h2>
-            <p>Research Assistant, Ph.D. Student at Simon Fraser University, Canada | Former Software Engineer.</p>
+            <p>Research Assistant|Teaching Assistant|Ph.D. Student at Simon Fraser University, Canada|Former Software Engineer.</p>
             <p>I am an energetic, dedicated, and hardworking individual in the research and academics field. I would like to gain research experience while achieving professional goals and be a valuable asset to the world. Researching novel Artificial Intelligence milestones, solving human life problems with new techniques, and trying to facilitate human beings are my life targets.</p>
         </section>
         <section id="education" class="content">
