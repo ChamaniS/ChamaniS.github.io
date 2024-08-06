@@ -2,6 +2,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chamani Shiranthika</title>
+     <p><small><i> Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</i></small></p>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -16,14 +19,14 @@
             overflow: hidden;
         }
         header {
-            background: #fbfcfc;
-            color: #333;
+            background: #fbfcfc;;
+            color: #fff;
             padding-top: 30px;
             min-height: 70px;
             border-bottom: #77aaff 3px solid;
         }
         header a, header ul {
-            color: #333;
+            color: #fff;
             text-decoration: none;
         }
         header a:hover {
@@ -47,7 +50,7 @@
         }
         footer {
             background: #fbfcfc;
-            color: #333;
+            color: #fff;
             text-align: center;
             padding: 10px 0;
             position: fixed;
@@ -60,16 +63,6 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1> Chamani Shiranthika</h1>
-            <p><small><i> Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</i></small></p>
-        </header>
-        <footer>
-            <p>&copy; 2024 Chamani Shiranthika. All rights reserved.</p>
-        </footer>
-    </div>
-
     <div class="container">
         <section id="about" class="content">
             <h2>About Me</h2>
