@@ -12,7 +12,7 @@
             background: #f4f4f4;
         }
         .container {
-            width: 80%;
+            width: 110%;
             margin: auto;
             overflow: hidden;
         }
