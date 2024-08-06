@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chamani Shiranthika</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -65,14 +64,6 @@
         <header>
             <h1>Chamani Shiranthika</h1>
             <p><small><i>Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</i></small></p>
-            <nav>
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Research</a></li>
-                    <li><a href="#">Contact</a></li>
-                </ul>
-            </nav>
         </header>
         <div class="content">
             <!-- Your content goes here -->
