@@ -2,8 +2,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chamani Shiranthika</title>
-     <p><small><i> Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</i></small></p>
+    
+     
+
+
+    <div class="container">
+        <header>
+            <h1> Chamani Shiranthika</h1>
+           <p><small><i> Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</i></small></p>
+        </header>
+    </div>
+
 
     <style>
         body {
