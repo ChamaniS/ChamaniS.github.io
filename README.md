@@ -3,8 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">   
     <title>Chamani Shiranthika</title>
-</div>
-
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -220,7 +218,7 @@
             <h3>Conferences</h3>
     <ol>
         <li>“SplitFed resilience to packet loss: Where to split, that is the question”
-            Chamani Shiranthika, Zahra Hafezi Kafshgari, Parvaneh Saeedi, Ivan Bajic
+            <b>Chamani Shiranthika<b>, Zahra Hafezi Kafshgari, Parvaneh Saeedi, Ivan Bajic
             4th MICCAI 2023 Workshop on Distributed, Collaborative and Federated Learning 2023, Vancouver, BC, Canada.
         </li>
         <li>“Quality-Adaptative Split-Federated Learning for segmenting medical images with inaccurate annotations”
