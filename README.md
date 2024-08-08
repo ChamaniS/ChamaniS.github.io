@@ -217,12 +217,13 @@
             <h2>Publications</h2>
             <h3>Conferences</h3>
     <ol>
-        <li>“SplitFed resilience to packet loss: Where to split, that is the question”
-            <b>Chamani Shiranthika<b>, Zahra Hafezi Kafshgari, Parvaneh Saeedi, Ivan Bajic
-            4th MICCAI 2023 Workshop on Distributed, Collaborative and Federated Learning 2023, Vancouver, BC, Canada.
-        </li>
+<li>“SplitFed resilience to packet loss: Where to split, that is the question”
+    <span style="color:green;">Chamani Shiranthika</span>, Zahra Hafezi Kafshgari, Parvaneh Saeedi, Ivan Bajic
+    4th MICCAI 2023 Workshop on Distributed, Collaborative and Federated Learning 2023, Vancouver, BC, Canada.
+</li>
+
         <li>“Quality-Adaptative Split-Federated Learning for segmenting medical images with inaccurate annotations”
-            Zahra Hafezi Kafshgari, Chamani Shiranthika, Parvaneh Saeedi, Ivan Bajic
+            Zahra Hafezi Kafshgari,  <span style="color:green;">Chamani Shiranthika</span>, Parvaneh Saeedi, Ivan Bajic
             IEEE International Symposium on Biomedical Imaging (ISBI) 2023, Columbia.
         </li>
         <li>“Personalized Travel spots Recommendation based on unsupervised learning approach”
