@@ -65,19 +65,10 @@
     <div class="container">
         <section id="about" class="content">
             <h2>About Me</h2>
-            <p>I am an energetic, dedicated, and hardworking individual in the research and academics field. I would like to gain research experience while achieving professional goals and be a valuable asset to the world. Researching novel Artificial Intelligence milestones, solving human life problems with new techniques, and trying to facilitate human beings are my life targets.</p>
+            <p> I am a PhD student in Engineering Science at Simon Fraser University, BC, Canada. I am an energetic, dedicated, and hardworking individual in the research and academics field. I would like to gain research experience while achieving professional goals and be a valuable asset to the world. Researching novel Artificial Intelligence milestones, solving human life problems with new techniques, and trying to facilitate human beings are my life targets.</p>
         </section>
         <section id="education" class="content">
             <h2>Education</h2>
-            <h3>Secondary Education</h3>
-            <p>Devi Balika Vidyalaya, Colombo 08, Sri Lanka. (2003 - 2012)</p>
-            <ul>
-                <li>G.C.E Advanced Level Examination 2012 (Mathematics Stream)</li>
-                Results – Combined Mathematics-A, Chemistry-B, Physics-B
-                <li>G.C.E Ordinary Level Examination 2008 (English Medium)</li>
-                Results – 6A’s, 2B’s 1C’s
-            </ul>
-            <h3>Tertiary Education</h3>
             <ul>
             <li><p><strong>Ph.D. in Engineering Science (Reading), Simon Fraser University, Burnaby, BC, Canada (2022 Spring-ongoing)</strong></p></li>
             <p>CGPA – 3.67/4.0</p>
@@ -92,6 +83,14 @@
             <p>Thesis: Machine-Learning approach for Personalized Travel spots recommendation for tourists.</p>
             <li><p><strong>Advanced Diploma in Management Accountants, Chartered Institute of Management Accountants (CIMA UK) (2012 – 2014)</strong></p></li>
             <p>Advanced diploma completing 3 tiers of Foundational Level, Operational Level, Management Level.</p>
+            <p>Devi Balika Vidyalaya, Colombo 08, Sri Lanka. (2003 - 2012)</p>
+            <ul>
+                <li>G.C.E Advanced Level Examination 2012 (Mathematics Stream)</li>
+                Results – Combined Mathematics-A, Chemistry-B, Physics-B
+                <li>G.C.E Ordinary Level Examination 2008 (English Medium)</li>
+                Results – 6A’s, 2B’s 1C’s
+            </ul>
+                
             </ul>
             </section>
         <section id="work" class="content">
@@ -202,78 +201,78 @@
             <h2>Publications</h2>
             <h3>Conferences</h3>
     <ol>
-        <li>“SplitFed resilience to packet loss: Where to split, that is the question”<br>
-            Chamani Shiranthika, Zahra Hafezi Kafshgari, Parvaneh Saeedi, Ivan Bajic<br>
+        <li>“SplitFed resilience to packet loss: Where to split, that is the question”
+            Chamani Shiranthika, Zahra Hafezi Kafshgari, Parvaneh Saeedi, Ivan Bajic
             4th MICCAI 2023 Workshop on Distributed, Collaborative and Federated Learning 2023, Vancouver, BC, Canada.
         </li>
-        <li>“Quality-Adaptative Split-Federated Learning for segmenting medical images with inaccurate annotations”<br>
-            Zahra Hafezi Kafshgari, Chamani Shiranthika, Parvaneh Saeedi, Ivan Bajic<br>
+        <li>“Quality-Adaptative Split-Federated Learning for segmenting medical images with inaccurate annotations”
+            Zahra Hafezi Kafshgari, Chamani Shiranthika, Parvaneh Saeedi, Ivan Bajic
             IEEE International Symposium on Biomedical Imaging (ISBI) 2023, Columbia.
         </li>
-        <li>“Personalized Travel spots Recommendation based on unsupervised learning approach”<br>
-            C. Shiranthika, N. Premakumara, S. Fernando and S. Sumathipala<br>
+        <li>“Personalized Travel spots Recommendation based on unsupervised learning approach”
+            C. Shiranthika, N. Premakumara, S. Fernando and S. Sumathipala
             "Personalized Travel Spot Recommendation based on Unsupervised Learning Approach," 2018 18th International Conference on Advances in ICT for Emerging Regions (ICTer), 2018, pp. 229-234, doi: <a href="https://doi.org/10.1109/ICTER.2018.8615533" target="_blank">10.1109/ICTER.2018.8615533</a>.
         </li>
-        <li>“Application of Summarization and Sentiment Analysis in the Tourism Domain”<br>
-            N. Premakumara, C. Shiranthika, P. Welideniya, C. Bandara, I. Prasad and S. Sumathipala<br>
+        <li>“Application of Summarization and Sentiment Analysis in the Tourism Domain”
+            N. Premakumara, C. Shiranthika, P. Welideniya, C. Bandara, I. Prasad and S. Sumathipala
             "Application of Summarization and Sentiment Analysis in the Tourism domain," 2019 IEEE 5th International Conference for Convergence in Technology (I2CT), 2019, pp. 1-5, doi: <a href="https://doi.org/10.1109/I2CT45611.2019.9033569" target="_blank">10.1109/I2CT45611.2019.9033569</a>.
         </li>
-        <li>“Personalized Travel spots recommendation and guidance system for Sri Lankan tourists”<br>
-            C. Shiranthika, N. Premakumara, J. Weerawarnakula, H. Lakmal, S. Fernando, and S. Sumathipala<br>
+        <li>“Personalized Travel spots recommendation and guidance system for Sri Lankan tourists”
+            C. Shiranthika, N. Premakumara, J. Weerawarnakula, H. Lakmal, S. Fernando, and S. Sumathipala
             “Personalized Travel Spot Recommendation and Guidance System for Sri Lankan Tourists,” in Proceedings of the 11th International Research Conference, Kothalawala Defence University, Sri Lanka, pp. 121–129. [Online]. Available: <a href="http://ir.kdu.ac.lk/handle/345/2498" target="_blank">http://ir.kdu.ac.lk/handle/345/2498</a>.
         </li>
-        <li>“An Advanced Vehicle Warning System to Prevent Road Accidents”<br>
-            C. Shiranthika, N. Premakumara, J.K.C. Shyalika, S. Bandara, S. Sumathipala, and C.Y. Yang<br>
+        <li>“An Advanced Vehicle Warning System to Prevent Road Accidents”
+            C. Shiranthika, N. Premakumara, J.K.C. Shyalika, S. Bandara, S. Sumathipala, and C.Y. Yang
             “An Advanced Vehicle Warning System to Prevent Road Accidents,” in 16th International Conference on Automation Technology 2019 (Nov 22-24), Taipei, Taiwan.
         </li>
-        <li>“Integration of Speech Recognition with Computer Assisted Translation”<br>
-            C. Shiranthika and S. Sumathipala<br>
+        <li>“Integration of Speech Recognition with Computer Assisted Translation”
+            C. Shiranthika and S. Sumathipala
             in 6th International Conference on Advancement of Development Administration (NIDA), Bangkok, Thailand.
         </li>
-        <li>“Human Activity Recognition using CNN and LSTM”<br>
-            C. Shiranthika, N. Premakumara, H.L. Chiu, H. Samani, C. Shyalika and C.Y. Yang<br>
+        <li>“Human Activity Recognition using CNN and LSTM”
+            C. Shiranthika, N. Premakumara, H.L. Chiu, H. Samani, C. Shyalika and C.Y. Yang
             "Human Activity Recognition Using CNN & LSTM," 2020 5th International Conference on Information Technology Research (ICITR), 2020, pp. 1-6, doi: <a href="https://doi.org/10.1109/ICITR51448.2020.9310792" target="_blank">10.1109/ICITR51448.2020.9310792</a>.
         </li>
-        <li>“IoT enabled Open framework for air pollution monitoring system”<br>
-            B.H. Sudantha, M.A.L.S.K, N. Premakumara, C. Shiranthika, C. Premachandra and H. Kawanaka<br>
+        <li>“IoT enabled Open framework for air pollution monitoring system”
+            B.H. Sudantha, M.A.L.S.K, N. Premakumara, C. Shiranthika, C. Premachandra and H. Kawanaka
             "IoT Enabled an Open Framework for Air Pollution Monitoring System," 2020 5th International Conference on Information Technology Research (ICITR), 2020, pp. 1-5, doi: <a href="https://doi.org/10.1109/ICITR51448.2020.9310838" target="_blank">10.1109/ICITR51448.2020.9310838</a>.
         </li>
-        <li>“An evaluation of the Five Times Sit-to-Stand Test (FTSST) in older adults for frailty detection”<br>
-            H. L. Chiu, C.AChen, N. Premakumara, C. Shiranthika, C.Y Yang<br>
+        <li>“An evaluation of the Five Times Sit-to-Stand Test (FTSST) in older adults for frailty detection”
+            H. L. Chiu, C.AChen, N. Premakumara, C. Shiranthika, C.Y Yang
             "An evaluation of the Five Times Sit-to-Stand Test (FTSST) in older adults for frailty detection," 2020 14th International Convention on Rehabilitation Engineering and Technology (iCREATe), 2020, Taipei, Taiwan.
         </li>
     </ol>
 
             <h3>Journals</h3>
     <ol>
-        <li>“Decentralized Learning in Healthcare: A Review of Emerging Techniques”<br>
+        <li>“Decentralized Learning in Healthcare: A Review of Emerging Techniques”
             C. Shiranthika, P. Saeedi and I. V. Bajić, in IEEE Access, vol. 11, pp. 54188-54209, 2023, doi: <a href="https://doi.org/10.1109/ACCESS.2023.3281832" target="_blank">10.1109/ACCESS.2023.3281832</a>.
         </li>
-        <li>“Supervised Optimal Chemotherapy Regimen based on Offline Reinforcement Learning”<br>
+        <li>“Supervised Optimal Chemotherapy Regimen based on Offline Reinforcement Learning”
             C. Shiranthika, Kuo-Wei Chen, Chung-Yih Wang, Chan-Yun Yang, B. H. Sudantha, Wei-Fu Li, in IEEE Journal of Biomedical and Health Informatics. 2022;26(9):4763-4772. doi: <a href="https://doi.org/10.1109/JBHI.2022.3183854" target="_blank">10.1109/JBHI.2022.3183854</a>.
         </li>
-        <li>“Development of gravitationally aligned pendant IMU frailty identifier”<br>
+        <li>“Development of gravitationally aligned pendant IMU frailty identifier”
     Chan-Yun Yang, Nilantha Premakumara, Huei-Ling Chiu, Yao-Hung Feng, Tzu-Ying Chen, Chamani Shiranthika, in Computers and Electrical Engineering (2024);118: 109466
 </li>
-        <li>“Realtime Computer Vision-Based Accurate Vehicle Counting and Speed Estimation for Highways”<br>
+        <li>“Realtime Computer Vision-Based Accurate Vehicle Counting and Speed Estimation for Highways”
             C. Shiranthika, P. Premaratne, Z. Zheng, and B. Halloran, in Intelligent Computing Theories and Application, pp. 583–592.
         </li>
-        <li>“Reinforcement Learning Strategies in Cancer Chemotherapy Treatments: A Review”<br>
+        <li>“Reinforcement Learning Strategies in Cancer Chemotherapy Treatments: A Review”
             Chamani Shiranthika, Chan-Yun Yang, Kuo-Wei Chen, Chung-Yih Wang, Sagara Sumathipala, in Computer Methods and Programs in Biomedicine (2022): 107280.
         </li>
         </ol>
 <h3>Posters</h3>
     <ol>
-<li>“Optimizing Split Points for Error-Resilient SplitFed Learning”<br>
+<li>“Optimizing Split Points for Error-Resilient SplitFed Learning”
     Chamani Shiranthika, P. Saeedi and I. V. Bajić, Research paper accepted for poster presentation, at the Women in Computer Vision (WiCV) workshop, at CVPR, 2024.
 </li>
-<li>“SplitFed resilience to packet loss: Where to split, that is the question”<br>
+<li>“SplitFed resilience to packet loss: Where to split, that is the question”
     Chamani Shiranthika, P. Saeedi and I. V. Bajić, Poster presented at the CRA Grad Cohort for Woman 2024, held in Minneapolis, Minnesota, on April 11-13, 2024.
 </li>
-<li>“An Evaluation Of The Five Times Sit-to-stand Test In Older Adult For Frailty Detection”<br>
+<li>“An Evaluation Of The Five Times Sit-to-stand Test In Older Adult For Frailty Detection”
     Chamani Shiranthika, Tsu-Ying Chen, Huei-Ling Chiu, Chan-Yun Yang, Taipei Union University System Academic Research Achievement Presentation, Taipei, Taiwan, 2021.
 </li>
-<li>“Reinforcement Learning Control for Cancer Chemotherapy Drug Dosing”<br>
+<li>“Reinforcement Learning Control for Cancer Chemotherapy Drug Dosing”
     Chamani Shiranthika, Guo-Wei Chen, Chong-Yi Wang, Wei-Fu Li, Chan-yun Yang, The 25th Taiwan Cancer Joint Academic Conference, Taipei, Taiwan, 2021.
 </li>
 
