@@ -123,6 +123,13 @@
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About Me</a></li>
             <li><a href="#education">Education</a></li>
+            <li><a href="#work">Work Experience</a></li>
+            <li><a href="#research">Research Experience</a></li>
+            <li><a href="#teaching">Teaching Experience</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#awards">Awards & Scholarships</a></li>
+            <li><a href="#voluntary">Voluntary Activities</a></li>
+            <li><a href="#professional">Professional Qualifications</a></li>
         </ul>
     </nav>
 
