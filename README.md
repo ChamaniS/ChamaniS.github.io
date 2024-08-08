@@ -281,8 +281,15 @@
         </section>
         
         <section id="awards" class="content">
-            <h2>Special Awards</h2>
+            <h2>Awards & Scholarships</h2>
             <ul>
+<li>PHD Research Scholarship - SFU
+Received in the Fall 2023, Spring 2024, Summer 2024. 
+</li>
+<li>Graduate Fellowship- ENSC SFU
+Received in Summer 2024. 
+</li>
+            
                 <li>Best Master Thesis award 2021 – IEEE Taipei Section
 The award for the Best Master thesis given by the IEEE Taipei Section, Nominated by the SMC Taipei Sector. 
 </li>
