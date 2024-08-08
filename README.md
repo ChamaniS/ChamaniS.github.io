@@ -15,7 +15,8 @@
             <li><a href="#publications">Publications</a></li>
             <li><a href="#awards">Awards & Scholarships</a></li>
             <li><a href="#voluntary">Voluntary Activities</a></li>
-            <li><a href="#professional">Professional Qualifications</a></li>
+            <li><a href="#qualifications">Professional Qualifications</a></li>
+             <li><a href="#memberships">Professional Memberships</a></li>
         </ul>
     </nav>
 
