@@ -3,6 +3,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">   
     <title>Chamani Shiranthika</title>
+        <!-- Navigation Bar -->
+    <nav class="navbar">
+        <ul class="navbar-menu">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#work">Work Experience</a></li>
+            <li><a href="#research">Research Experience</a></li>
+            <li><a href="#teaching">Teaching Experience</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#awards">Awards & Scholarships</a></li>
+            <li><a href="#voluntary">Voluntary Activities</a></li>
+            <li><a href="#professional">Professional Qualifications</a></li>
+        </ul>
+    </nav>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -82,7 +98,7 @@
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
-    font-size: 22px;
+    font-size: 15px;
     font-weight: bold;
 }
 
@@ -117,21 +133,6 @@
         </div>
 
 
-    <!-- Navigation Bar -->
-    <nav class="navbar">
-        <ul class="navbar-menu">
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#education">Education</a></li>
-            <li><a href="#work">Work Experience</a></li>
-            <li><a href="#research">Research Experience</a></li>
-            <li><a href="#teaching">Teaching Experience</a></li>
-            <li><a href="#publications">Publications</a></li>
-            <li><a href="#awards">Awards & Scholarships</a></li>
-            <li><a href="#voluntary">Voluntary Activities</a></li>
-            <li><a href="#professional">Professional Qualifications</a></li>
-        </ul>
-    </nav>
 
         
         <section id="about" class="content">
