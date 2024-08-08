@@ -64,14 +64,31 @@
         h1, h2, h3 {
             color: #333;
         }
+                .centered-content {
+            text-align: center;
+        }
+        .centered-content img {
+            width: 200px;
+            height: auto;
+        }
+        .centered-content p {
+            margin-top: 10px;
+            font-size: smaller;
+            font-style: italic;
+        }
     </style>
 </head>
 <body>
     <div class="container">
+        <div class="centered-content">
+            <img src="Chamani_2.jpg" alt="Chamani Shiranthika">
+            <p>Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</p>
+        </div>
         <section id="about" class="content">
             <h2>About Me</h2>
-            <p> I am a PhD student in Engineering Science at Simon Fraser University, BC, Canada. I am an energetic, dedicated, and hardworking individual in the research and academics field. I would like to gain research experience while achieving professional goals and be a valuable asset to the world. Researching novel Artificial Intelligence milestones, solving human life problems with new techniques, and trying to facilitate human beings are my life targets.</p>
+            <p>I am a PhD student in Engineering Science at Simon Fraser University, BC, Canada. I am an energetic, dedicated, and hardworking individual in the research and academics field. I would like to gain research experience while achieving professional goals and be a valuable asset to the world. Researching novel Artificial Intelligence milestones, solving human life problems with new techniques, and trying to facilitate human beings are my life targets.</p>
         </section>
+        
         <section id="education" class="content">
             <h2>Education</h2>
             <ul>
