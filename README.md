@@ -81,8 +81,7 @@
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
-    font-size: 15px;
-    font-weight: bold;
+    font-size: 10px;
 }
 
 .navbar-menu {
