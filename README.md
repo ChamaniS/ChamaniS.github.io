@@ -69,7 +69,7 @@
             font-size: smaller;
             font-style: italic;
         }
-        /* Navbar Styling */
+/* Navbar Styling */
 .navbar {
     background-color: #333;
     overflow: hidden;
@@ -79,9 +79,9 @@
     float: left;
     color: white;
     text-align: center;
-    padding: 14px 20px;
+    padding: 10px 15px; /* Reduced padding */
     text-decoration: none;
-    font-size: 10px;
+    font-size: 12px; /* Smaller font size */
 }
 
 .navbar-menu {
@@ -97,8 +97,9 @@
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 20px;
+    padding: 10px 15px; /* Reduced padding */
     text-decoration: none;
+    font-size: 12px; /* Smaller font size */
 }
 
 .navbar-menu li a:hover {
