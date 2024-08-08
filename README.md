@@ -5,7 +5,8 @@
     <title>Chamani Shiranthika</title>
 
     <div style="text-align:center;">
-    <img src="Chamani_2.jpg" alt="Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer" style="width:200px;height:auto;">
+    <img src="Chamani_2.jpg" style="width:200px;height:auto;">
+    <p><small><i> Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</i></small></p>
 </div>
 
     <style>
