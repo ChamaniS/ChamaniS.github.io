@@ -3,8 +3,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">   
     <title>Chamani Shiranthika</title>
-    <p><small><i> Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</i></small></p>
-    <img src="Chamani_2.jpg" style="width:200px;height:auto;">
+
+    <div style="text-align:center;">
+    <img src="Chamani_2.jpg" alt="Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer" style="width:200px;height:auto;">
+</div>
+
     <style>
         body {
             font-family: Arial, sans-serif;
