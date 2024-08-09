@@ -89,6 +89,10 @@
     flex-direction: column;
 }
 
+.text-content h1 {
+    margin: 0;
+    font-size: 14px; /* Adjust font size */
+}
 .text-content p {
     margin: 5px 0 0;
     font-size: 14px; /* Adjust font size */
