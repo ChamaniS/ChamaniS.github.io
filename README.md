@@ -140,7 +140,7 @@
    <body>
 <div class="container">
     <div class="header-content">
-        <img src="Chamani_2.jpg" alt="Chamani Shiranthika" class="profile-image">
+        <img src="Chamani_2.jpg" class="profile-image">
         <div class="text-content">
             <h1>Chamani Shiranthika</h1>
             <p>Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</p>
