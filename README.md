@@ -111,26 +111,29 @@
     padding: 0;
     margin: 0;
     display: flex;
-    justify-content: space-around; /* Distribute items evenly */
+    justify-content: space-between; /* Distribute items evenly */
+    flex-wrap: wrap; /* Allow wrapping to the next line if needed */
 }
 
 .navbar-menu li {
     display: inline;
+    flex: 1; /* Ensure each item takes equal space */
+    text-align: center;
 }
 
 .navbar-menu li a {
     display: block;
     color: white;
-    text-align: center;
-    padding: 10px 15px;
+    padding: 10px 5px; /* Adjust padding for smaller size */
     text-decoration: none;
-    font-size: 12px; /* Adjust font size */
+    font-size: 10px; /* Make font size smaller */
 }
 
 .navbar-menu li a:hover {
     background-color: #ddd;
     color: black;
 }
+
 
 
 
@@ -142,7 +145,6 @@
     <div class="header-content">
         <img src="Chamani_2.jpg" class="profile-image">
         <div class="text-content">
-            <h1>Chamani Shiranthika</h1>
             <p>Research Assistant | Teaching Assistant | Ph.D. Student | Former Software Engineer</p>
         </div>
     </div>
