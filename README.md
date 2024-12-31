@@ -448,6 +448,7 @@ All Island 1st place - Presented a Energy Consumption Controlling Project for Ho
         <section id="voluntary" class="content">
             <h2>Voluntary Activities</h2>
             <ul>
+ <li>Volunteer at NeurIPS 2024 (2024 December): Supporting as a volunteer at Women in Machine Learning (WIML) workshop at NeurIPS 2024. </li>           
 <li>Pioneered in the fund raising program in renovating a computer lab in a rural school in Sri Lanka (https://www.gofundme.com/f/help-us-in-renovation-of-our-computer-lab) where the project was successfully finished on 2024 March 25. I was the main initiator of the project and carried out it successfully with the clarity organization: Sri Lanka Humanitarian Foundation of Canada, in Edmonton. </li>
 <li>Mentor in the ScholarX program organized by the Sustainable Education Foundation, Sri Lanka https://sefglobal.org/scholarx/2022/, (2022 May– 2022 November). </li>
 <li>Participated at the AIESEC SUMMER CAMP representing Sri Lanka, organized by the National Taipei University, Taiwan AIESEC Association for the High School students at Taiwan, (2020 July 14 – 2020 July 23). </li>
