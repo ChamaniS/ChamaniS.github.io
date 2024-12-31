@@ -382,12 +382,12 @@
         </ol>
 <h3>Posters</h3>
     <ol>
+ <li>“Enhancing Communication Efficiency and Robustness in Split-Federated Learning with Rate-Distortion inspired Compression”
+    <span style="color:#006400;">Chamani Shiranthika</span>, Hadi Hadizadeh, P. Saeedi and I. V. Bajić, Research paper presented at the Women in Machine Learning (WiML) workshop, at NeurIPS, 2024, Vancouver, BC, Canada.
+</li>       
 <li>“Optimizing Split Points for Error-Resilient SplitFed Learning”
     <span style="color:#006400;">Chamani Shiranthika</span>, P. Saeedi and I. V. Bajić, Research paper presented at the Women in Computer Vision (WiCV) workshop, at CVPR, 2024, Seattle, USA.
 </li>   
-<li>“Enhancing Communication Efficiency and Robustness in Split-Federated Learning with Rate-Distortion inspired Compression”
-    <span style="color:#006400;">Chamani Shiranthika</span>, Hadi Hadizadeh, P. Saeedi and I. V. Bajić, Research paper presented at the Women in Machine Learning (WiML) workshop, at NeurIPS, 2024, Vancouver, BC, Canada.
-</li>
 <li>“SplitFed resilience to packet loss: Where to split, that is the question”
     <span style="color:#006400;">Chamani Shiranthika</span>, P. Saeedi and I. V. Bajić, Poster presented at the CRA Grad Cohort for Woman 2024, held in Minneapolis, Minnesota, on April 11-13, 2024.
 </li>
