@@ -240,6 +240,12 @@
                         <td>Microelectronics</td>
                         <td>Simon Fraser University, Canada</td>
                         <td>Prof. Ash Parameswaran</td>
+                        <td>2024 Fall</td>
+                    </tr>
+                    <tr>
+                        <td>Microelectronics</td>
+                        <td>Simon Fraser University, Canada</td>
+                        <td>Prof. Ash Parameswaran</td>
                         <td>2024 Summer</td>
                     </tr>
                     <tr>
@@ -307,11 +313,14 @@
             <h2>Publications</h2>
             <h3>Conferences</h3>
     <ol>
+<li>“SplitFedZip: Learned Compression for Data Transfer Reduction in Split-Federated Learning”
+   <span style="color:#006400;">Chamani Shiranthika</span>, Hadi Hadizadeh, Parvaneh Saeedi, Ivan Bajic
+    The 1st Workshop on Federated Learning for Unbounded and Intelligent Decentralization (FLUID) at the AAAI 2025, Pennysylvania, Philadelphia, USA.
+</li>  
 <li>“SplitFed resilience to packet loss: Where to split, that is the question”
    <span style="color:#006400;">Chamani Shiranthika</span>, Zahra Hafezi Kafshgari, Parvaneh Saeedi, Ivan Bajic
     4th MICCAI 2023 Workshop on Distributed, Collaborative and Federated Learning 2023, Vancouver, BC, Canada.
 </li>
-
         <li>“Quality-Adaptative Split-Federated Learning for segmenting medical images with inaccurate annotations”
             Zahra Hafezi Kafshgari,  <span style="color:#006400;">Chamani Shiranthika</span>, Parvaneh Saeedi, Ivan Bajic
             IEEE International Symposium on Biomedical Imaging (ISBI) 2023, Columbia.
@@ -352,6 +361,9 @@
 
             <h3>Journals</h3>
     <ol>
+<li>“Adaptive Asynchronous Split Federated Learning for Medical Image Segmentation”
+   <span style="color:#006400;">Chamani Shiranthika</span>, Hadi Hadizadeh, Parvaneh Saeedi, Ivan Bajic, in IEEE Access, vol. 12, pp. 182496-182515, 2024, doi: <a href="https://doi.org/10.1109/ACCESS.2024.3511430" target="_blank">10.1109/ACCESS.2024.3511430</a>.
+</li>
         <li>“Decentralized Learning in Healthcare: A Review of Emerging Techniques”
             <span style="color:#006400;">C. Shiranthika</span>, P. Saeedi and I. V. Bajić, in IEEE Access, vol. 11, pp. 54188-54209, 2023, doi: <a href="https://doi.org/10.1109/ACCESS.2023.3281832" target="_blank">10.1109/ACCESS.2023.3281832</a>.
         </li>
@@ -371,7 +383,10 @@
 <h3>Posters</h3>
     <ol>
 <li>“Optimizing Split Points for Error-Resilient SplitFed Learning”
-    <span style="color:#006400;">Chamani Shiranthika</span>, P. Saeedi and I. V. Bajić, Research paper accepted for poster presentation, at the Women in Computer Vision (WiCV) workshop, at CVPR, 2024.
+    <span style="color:#006400;">Chamani Shiranthika</span>, P. Saeedi and I. V. Bajić, Research paper presented at the Women in Computer Vision (WiCV) workshop, at CVPR, 2024, Seattle, USA.
+</li>   
+<li>“Enhancing Communication Efficiency and Robustness in Split-Federated Learning with Rate-Distortion inspired Compression”
+    <span style="color:#006400;">Chamani Shiranthika</span>, Hadi Hadizadeh, P. Saeedi and I. V. Bajić, Research paper presented at the Women in Machine Learning (WiML) workshop, at NeurIPS, 2024, Vancouver, BC, Canada.
 </li>
 <li>“SplitFed resilience to packet loss: Where to split, that is the question”
     <span style="color:#006400;">Chamani Shiranthika</span>, P. Saeedi and I. V. Bajić, Poster presented at the CRA Grad Cohort for Woman 2024, held in Minneapolis, Minnesota, on April 11-13, 2024.
